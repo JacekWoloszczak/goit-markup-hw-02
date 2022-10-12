@@ -212,3 +212,16 @@ button:hover {
   letter-spacing: 0.03em;
   color: #757575;
 }
+
+.style-clic-primary {
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 0.06em;
+
+  color: #ffffff;
+}
